@@ -1,6 +1,6 @@
 # Project Title: Artanize
 
-An Artistic Mnemonic Organization App designed for overwhelmed minds.
+An Artistic Organization Application designed for artists overwhelmed minds. App is conceved to be available in VR. Also, 
 
 ## Getting Started
 
