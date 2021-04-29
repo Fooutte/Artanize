@@ -1,6 +1,10 @@
 # Project Title: Artanize
 
-An Artistic Organization Application designed for artists overwhelmed minds. App is conceved to be available in VR. Also, 
+An Application designed for artists to organize their overwhelmed minds. 
+A Spheric interface, 2D mode, 3D mode and movable in a 360 motion.
+Multiple functions. A Master button helps you add the 
+App is conceved to be available in VR. Also, available on a smartphone, tablet and PC.
+
 
 ## Getting Started
 
